@@ -1,4 +1,29 @@
-
-head {
-  background-color: red;
+aside {
+  float: right;
+  clear: both;
+  background-color: white;
 }
+
+body {
+  background-color: black;
+}
+
+nav {
+  background-color: gray;
+}
+
+article {
+  background-color: white;
+  clear: both;
+  overflow: auto;
+  float: left;
+  width: 15rem;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  clear: both;
+}
+
+
