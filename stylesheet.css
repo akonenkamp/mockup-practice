@@ -1,9 +1,14 @@
 body {
+ 
+}
+
+header {
   background-color: black;
 }
 
 nav {
   background-color: gray;
+  clear: both;
 }
 
 article {
@@ -25,6 +30,7 @@ footer {
   text-align: center;
   color: white;
   clear: both;
+  background-color: black;
 }
 
 
