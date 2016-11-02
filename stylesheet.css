@@ -4,13 +4,14 @@ body {
 
 header {
   background-color: black;
-  float: inherit;
+  
 }
 
 nav {
   background-color: gray;
   clear: both;
   padding: 20px;
+
 }
 
 article {
@@ -41,6 +42,23 @@ footer {
 .call-to-action {
   color: red;
   float: right;
+  padding-top: 30px;
+}
+
+figure img {
+    width: 15rem;
+  
+}
+
+h1 {
+  color: white;
+  padding-top: 100px;
+
+}
+
+h2 {
+  color: gray;
+  padding-top: 10px;
 }
 
 
