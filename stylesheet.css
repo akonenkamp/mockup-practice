@@ -42,7 +42,7 @@ footer {
 
 .contact {
   background-color: black;
-  float: left;
+  text-align: left;
 }
 
 .call-to-action {
@@ -71,5 +71,18 @@ h2 {
 
 }
 
+.copyright {
+  padding-top: 50px;
+}
+
+.quote1
+{
+  font-style: italic;
+}
+
+.quote2
+{
+  font-style: italic;
+}
 
 
