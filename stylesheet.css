@@ -87,4 +87,33 @@ h2 {
   font-style: italic;
 }
 
+.cat-profile2 {
+  float: right;
+  margin: 0 1.5%;
+  width: 40%;
+  background-color: white;
+  margin: 20px;
+      
+}
 
+.cat-profile1 {
+  float: left;
+  margin: 0 1.5%;
+  width: 40%;
+}
+
+.catprofile {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.rates2 {
+  float: right;
+  overflow: auto;
+  width: 40%;
+  
+}
+
+.rates1 {
+  width: 40%;
+}
